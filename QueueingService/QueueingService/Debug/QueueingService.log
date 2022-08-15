@@ -1,0 +1,26 @@
+﻿  main.c
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(37,28): warning C4028: formal parameter 1 different from declaration
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(46,7): warning C4013: 'gets' undefined; assuming extern returning int
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(66,11): warning C4098: 'runFirstQueueingService': 'void' function returning a value
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(83,11): warning C4098: 'runFirstQueueingService': 'void' function returning a value
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(93,11): warning C4098: 'runFirstQueueingService': 'void' function returning a value
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(102,11): warning C4098: 'runFirstQueueingService': 'void' function returning a value
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(114,11): warning C4098: 'runFirstQueueingService': 'void' function returning a value
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(122,44): warning C4047: 'function': 'char **' differs in levels of indirection from 'char [10][32]'
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(122,35): warning C4024: 'insertProcesses': different types for formal and actual parameter 1
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(152,124): warning C4133: 'function': incompatible types - from 'STARTUPINFO *' to 'LPSTARTUPINFOA'
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(163,13): warning C4098: 'runFirstQueueingService': 'void' function returning a value
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(170,13): warning C4098: 'runFirstQueueingService': 'void' function returning a value
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(216,11): warning C4098: 'runSecondQueueingService': 'void' function returning a value
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(234,11): warning C4098: 'runSecondQueueingService': 'void' function returning a value
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(250,11): warning C4098: 'runSecondQueueingService': 'void' function returning a value
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(260,11): warning C4098: 'runSecondQueueingService': 'void' function returning a value
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(269,11): warning C4098: 'runSecondQueueingService': 'void' function returning a value
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(277,44): warning C4047: 'function': 'char **' differs in levels of indirection from 'char [10][32]'
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(277,35): warning C4024: 'insertProcesses': different types for formal and actual parameter 1
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(308,124): warning C4133: 'function': incompatible types - from 'STARTUPINFO *' to 'LPSTARTUPINFOA'
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(319,13): warning C4098: 'runSecondQueueingService': 'void' function returning a value
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\QueueingService\main.c(326,13): warning C4098: 'runSecondQueueingService': 'void' function returning a value
+  QueueingService.c
+  Generating Code...
+  QueueingService.vcxproj -> D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\Debug\QueueingService.exe

@@ -1,0 +1,5 @@
+﻿  Queue.c
+  tcpLib.c
+  Generating Code...
+D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\Common\Queue.c(61): warning C4716: 'addProcessToQueueArray': must return a value
+  Common.vcxproj -> D:\Nemanja\FAX\7i semestar\IKP\materijali\projekat\Queue Servis IKP\QueueingService\Debug\Common.lib
